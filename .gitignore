@@ -1,0 +1,47 @@
+# Archivos de macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Thumbs.db y similares
+ehthumbs.db
+Icon?
+
+# Archivos de sistema
+Desktop.ini
+
+# Archivos de Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+*.log
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Archivos temporales
+*.tmp
+*.swp
+*.bak
+*.backup
+
+# Librerías y entornos
+.env
+.venv
+env/
+venv/
+ENV/
+*.env
+
+# R
+.Rhistory
+.RData
+.Rproj.user/
+.Ruserdata
+
+# Archivos de VSCode
+.vscode/
